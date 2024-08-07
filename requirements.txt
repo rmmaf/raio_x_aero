@@ -1,0 +1,6 @@
+pandas
+numpy
+cpf_generator
+cplex
+pyomo
+streamlit
